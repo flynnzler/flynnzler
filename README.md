@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 📫 How to reach me: ... 
 😄 Pronouns: He/Him
 
-```
+### Profile Visitor Count: 
+
 ![Visitor Count](https://profile-counter.glitch.me/flynnzler/count.svg)
-```
