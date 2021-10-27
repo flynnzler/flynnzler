@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br></br>
 
-🔭 I’m currently working on: a GUI python chat app using the sockets library and PyQT (cause why not?)
+🔭 I’m currently working on: a GUI python chat app using the sockets library and PyQT (cause why not?), [Sidechat](https://github.com/flynnzler/sidechat)
 
 🌱 I’m currently learning: PyQT, django, c, using Arch Linux and tiling window managers
 
