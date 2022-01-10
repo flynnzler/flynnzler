@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 <br></br>
 
-🔭 I’m currently working on: a GUI python chat app using the sockets library and PyQT (cause why not?), [Sidechat](https://github.com/flynnzler/sidechat)
+🔭 I’m currently working on: a C chat app using the sockets library and pthreads for multithreading, [Sidechat](https://github.com/flynnzler/sidechat)
 
-🌱 I’m currently learning: PyQT, django, c, using Arch Linux and tiling window managers
+🌱 I’m currently learning: PyQT, Django, C/C++, Arch Linux and tiling window managers, DSA, Comp. Programming (😔)
 
-👯 I’m looking to collaborate on: python and c based projects
+👯 I’m looking to collaborate on: python and C/C++ based projects
 
 🤔 I’m looking for help with: getting into tiling window managers
 
-💬 Ask me about: Python, C (kinda n00b), Linux, shell, and pop-culture (the internet, books, music, movies, shows, anime, games, comics... the list goes on)
+💬 Ask me about: Python, C/C++ (kinda n00b), Linux, Cybersecurity, and pop-culture (the internet, books, music, movies, shows, anime, games, comics...)
 
 📫 Connect with me: [Twitter](https://twitter.com/AkshitT66286362), [Spotify](https://open.spotify.com/user/thestarstorm), [HackerRank](https://www.hackerrank.com/tyagiakshit833), [codeforces](https://codeforces.com/profile/p4rziv4l), [dev.to](https://dev.to/flynnzler), [Goodreads](https://www.goodreads.com/user/show/76647027-akshit), [Trakt.tv](https://trakt.tv/users/lightyagami420)
 
@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 ### Profile Visitor Count: (yeah, this includes my own visits as well)
 
 ![Visitor Count](https://profile-counter.glitch.me/flynnzler/count.svg)
+
+#### Experimenting with a new Visitor Count:  ![](https://komarev.com/ghpvc/?username=flynnzler&style=flat-square)
