@@ -1,5 +1,5 @@
 # About Me:
-👋 I'm a 19 year old, undergraduate student from India with A+ taste in music and books and shows.
+👋 I'm a 20 year old, undergraduate student from India with A+ taste in music and books and shows.
 
 - *Despite my best attempts to be a generalist when it comes to programming I like doing things in python a little too much.*
 
