@@ -1,6 +1,9 @@
 # About Me:
-👋 I'm a 20 year old, undergraduate student from India with A+ taste in music and books and shows.
+👋 I'm a final year undergraduate student at Jaypee Institute of Information Technology in Noida, India where I'm majoring in computer-science and engineering.
 
-- *Despite my best attempts to be a generalist when it comes to programming I like doing things in python a little too much.*
+![](https://komarev.com/ghpvc/?username=exitflynn&color=5465F5&abbreviated=true)
+![](https://hit.yhype.me/github/profile?account_id=37214399)
 
-- *Also among other things I really, really enjoy working with stuff relating to Linux systems and networking (and some light cybersecurity too 🤠).*
+- *Despite my best attempts to be a generalist when it comes to programming I like working in the python ecosystems a little too much.*
+
+For reaching out, feel free to send me an email at ` tyagiakshit833 [at] gmail [dot] com ` or reaching out to me over discord: `parzivalholmes`.
